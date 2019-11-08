@@ -1,5 +1,7 @@
 #GIT Flow Training Repo
 
+SOME CHANGES
+
 ##Documentation
 
 You can find all documentation about GIT Flow in [Confluence](https://confluence.meltdev.com/display/DEV/Git+Flow)
